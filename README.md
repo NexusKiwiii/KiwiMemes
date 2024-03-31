@@ -5,9 +5,12 @@ Create simple meme-videos
 
 For each meme (in the `memes` folder) it will take a random background video (from the `backgrounds` folder).
 Based on your `config.json` it will remove the background audio.
+
 ## Installation
 
 You only need moviepy and the script
+
+![App Screenshot]([https://via.placeholder.com/468x300?text=App+Screenshot+Here](https://raw.githubusercontent.com/NexusKiwiii/KiwiMemes/main/preview.png))
 
 ```bash
     pip install moviepy
