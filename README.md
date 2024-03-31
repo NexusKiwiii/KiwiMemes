@@ -12,7 +12,7 @@ You only need moviepy and the script
     pip install moviepy
 ```
     
-after downloading you have to create a `config.js` in the same directory. Create a `memes` and `backgrounds` folder where you put all the backgrounds and memes. They dont need any specific name or smth.
+after downloading you have to create a `config.json` in the same directory. Create a `memes` and `backgrounds` folder where you put all the backgrounds and memes. They dont need any specific name or smth.
 
 After running the script it will automatically create a output folder with the meme-videos.
 
