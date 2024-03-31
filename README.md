@@ -10,7 +10,7 @@ Based on your `config.json` it will remove the background audio.
 
 You only need moviepy and the script
 
-![App Screenshot]([https://via.placeholder.com/468x300?text=App+Screenshot+Here](https://raw.githubusercontent.com/NexusKiwiii/KiwiMemes/main/preview.png))
+![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
 
 ```bash
     pip install moviepy
